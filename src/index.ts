@@ -1,4 +1,4 @@
-import { part2 } from "./day7/part2";
+import { part2 } from "./day8/part2";
 
 const runner = () => {
   console.log("Running solution...");
